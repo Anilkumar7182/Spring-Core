@@ -1,0 +1,18 @@
+/.metadata/
+
+# Ignore build files
+**/target/
+**/bin/
+*.class
+
+# Ignore IDE files
+.idea/
+.vscode/
+*.iml
+
+# Ignore logs
+*.log
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
