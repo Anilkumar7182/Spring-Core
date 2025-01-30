@@ -112,10 +112,10 @@
 
 => Providing fundamentals of spring
 
-		1) IOC Container
-		2) Dependency Injection
-		3) Auto wiring
-        4) Bean 
+  1) IOC Container
+  2) Dependency Injection
+  3) Auto wiring
+  4) Bean 
 
 
 ### Spring Context
@@ -180,9 +180,9 @@ Note: JSP and Thymeleaf are outdated.
 
 => If one application is communicating with another application then it is called as Distributed application.
 
-	Ex: passport ----> aadhar
+ Ex: passport ----> aadhar
 
-		gpay ---> bank app
+   gpay ---> bank app
 
 
 ### Spring Security
@@ -192,8 +192,8 @@ Note: JSP and Thymeleaf are outdated.
 
 => It provides below functionalities
 
-		1) Authentication ( who can login ? )
-		2) Authorization ( what they can access ?)
+   1) Authentication ( who can login ? )
+   2) Authorization ( what they can access ?)
 
 
 ### Spring Cloud
@@ -211,9 +211,9 @@ Ex: Discovery server, api gateway, circuit breaker, config server....
 
 usecases:
 
-    1) Bank account stmt generation
-    2) Credit card bill generation
-    3) postpaid mobile bill generation
+  1) Bank account stmt generation
+  2) Credit card bill generation
+  3) postpaid mobile bill generation
 
 
 ### Spring AOP
@@ -238,18 +238,18 @@ cross cutting logics : security, tx, auditing, logging ...
 
 => Providing fundamentals of spring framework
 
-		1) IOC
-		2) DI
-		3) Auowiring
+   1. IOC
+   2. DI
+   3. Auowiring
 
 => Spring Core module is used to manage our classes in the project.		
 
 
 => In a project we will have several classes
 
-		1) controller classes (req & resp)
-		2) service classes (business logic)
-		3) Dao classes (db communication)		
+	1. controller classes (req & resp)
+	2. service classes (business logic)
+	3. Dao classes (db communication)		
 
 => in project execution process, One java class should call another java class method
 
