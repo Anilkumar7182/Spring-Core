@@ -1,4 +1,4 @@
-package com.p1.entity;
+package com.p1.Entity;
 
 public interface Engine {
 	

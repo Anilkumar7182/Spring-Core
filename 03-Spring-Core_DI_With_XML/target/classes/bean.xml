@@ -5,8 +5,8 @@
         http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <!-- bean definitions here -->
-    <bean id="nilu" class="com.p1.entity.DesileEngine"  />
-    <bean id="dev" class="com.p1.entity.PatrolEngine" primary="true"/> 
+    <bean id="nilu" class="com.p1.Entity.DesileEngine"  />
+    <bean id="dev" class="com.p1.Entity.PatrolEngine" primary="true"/> 
     <bean id="som" class="com.p1.Car" scope="prototype" autowire="byType">
  <!--   <property name="eng" ref="nilu"/>-->  <!-- setter injection-->
  
